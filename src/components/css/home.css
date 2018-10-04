@@ -1,0 +1,25 @@
+.imgCustomBg{
+    background-image: url('../../mine.JPG');
+    background-color: black;
+    background-position: top;
+    background-size: cover;
+    min-height: 600px;
+    text-align: center;
+}
+
+#pageIntro{
+    padding-top: 16rem;
+    color: black;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+}
+
+.btnwrapper{
+    margin-top: 3rem;
+}
+
+.btngitHub, .btnlinkedIn{
+    float: none !important;
+    margin-right: 2rem;
+}

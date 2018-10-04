@@ -1,0 +1,14 @@
+.resumeWrapper{
+    align-content: center;
+    Width:70%;
+    height:auto;
+
+}
+
+.react-pdf__Page__textContent {
+    display: none;
+}
+
+.pdfViewer{
+    clear:both;
+}

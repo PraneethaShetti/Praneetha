@@ -1,0 +1,11 @@
+.customNav{
+    margin-bottom:0px;
+    width: 100%;
+    top: 0;
+}
+
+@media only screen and (max-width: 768px) {
+    .resumeSlot{
+        display: none !important;
+    }
+}

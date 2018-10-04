@@ -46,14 +46,6 @@ const componentsDS=[
         }
     },
     {
-        title:"Add/Delete",
-        description:"Fun start",
-        src:"",
-        styleCSS:{
-            backgroundColor:'#77b6b6'
-        }
-    },
-    {
         title:"Number calculator",
         description:"fastest fingers first",
         src:"",

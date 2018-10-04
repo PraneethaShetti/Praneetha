@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Col, Row, Media, Label, ProgressBar} from 'react-bootstrap';
+import {Col, Row, Media} from 'react-bootstrap';
 import './css/about.css'
 
 class About extends Component {

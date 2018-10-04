@@ -16,16 +16,16 @@ class NavHeader extends Component {
                     </Navbar.Header>
                     <Navbar.Collapse>
                         <Nav pullRight>
-                            <NavItem eventKey={1} componentClass={Link} href="/" to="/">
+                            <NavItem eventKey={1} componentClass={Link} href="/Praneetha" to="/Praneetha">
                                     Home
                             </NavItem>
-                            <NavItem eventKey={2} componentClass={Link} href="/about" to="/about">
+                            <NavItem eventKey={2} componentClass={Link} href="/Praneetha/about" to="/Praneetha/about">
                                     About
                             </NavItem>
-                            <NavItem eventKey={3} componentClass={Link} href="/resume" className="resumeSlot" to="/resume">
+                            <NavItem eventKey={3} componentClass={Link} href="/Praneetha/resume" className="resumeSlot" to="/Praneetha/resume">
                                     Resume
                             </NavItem>
-                            <NavItem eventKey={4} componentClass={Link} href="/workDone" to="/workDone">
+                            <NavItem eventKey={4} componentClass={Link} href="/Praneetha/workDone" to="/Praneetha/workDone">
                                     Work Done
                             </NavItem>
                         </Nav>

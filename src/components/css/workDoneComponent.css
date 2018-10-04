@@ -9,12 +9,14 @@
     padding:30px;
     text-align: center;
 }
-
+@media only screen and (max-width: 768px) {
+    .workDoneContainer{
+        margin-left: 3rem;
+    }
+}
 .outerSquare{
     border-style: solid;
     border-color:  white;
     height: -webkit-fill-available;
     width:-webkit-fill-available;
-    
-
 }

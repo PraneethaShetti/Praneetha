@@ -12,7 +12,7 @@ class Home extends Component {
                             <div id="pageIntro" className="hoc clear">
                                 <h3>Anyone who never made a mistake has never tried ANYTHING new..!</h3>
                                 <ButtonToolbar className="btnwrapper">
-                                        <a href="https://github.com/PraneethaShetti">
+                                        <a href="https://praneethashetti.github.io/Praneetha/">
                                             <Button bsStyle="primary" value="github" className="btngitHub">
                                                 <i className=" fa fa-github"> GitHub</i>
                                             </Button>

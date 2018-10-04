@@ -8,7 +8,7 @@ class WorkDoneComponent extends Component {
     }
     render() {
         return (
-            <Col xs={12} md={4}>
+            <Col xs={12} sm={6} md={4}>
                 <div className="workDoneContainer" style={{backgroundColor:this.props.backgroundColor}}>
                     <div className="outerSquare">
                         <h3> {this.props.title} </h3>

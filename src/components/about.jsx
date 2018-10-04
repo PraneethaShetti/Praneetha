@@ -42,6 +42,11 @@ class About extends Component {
                             </ol>
                         </div>
                     </Col>
+                    <Col className="mobileResume" xs={12} smHidden mdHidden lgHidden>
+                        <div className="myDescription">
+                            <h3>To get to know more about mywork <a href="https://drive.google.com/drive/folders/1BnQYxMOtLpCkIvtraxC6cJlT-s2VKJ68?usp=sharing">"Download my Resume"</a></h3>
+                        </div>
+                    </Col>
                 </Row>
             </div>
         );

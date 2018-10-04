@@ -3,7 +3,7 @@
     height: 45rem;
 }
 .myDescription{
-    font-family: cursive;
+    font-family: "Comic Sans MS", cursive, sans-serif;
     color: #77b6b6;
 }
 @media only screen and (min-width: 768px) {

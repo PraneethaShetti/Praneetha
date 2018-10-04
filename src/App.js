@@ -16,10 +16,10 @@ class App extends Component {
         <div className="wrapper row4">
           <NavHeader />
         </div>
-          <Route exact path="/" component={Home} />
-          <Route path="/about" component={About} />
-          <Route path="/resume" component={Resume} />
-          <Route path="/workDone" component={WorkDone} />
+          <Route exact path="/Praneetha" component={Home} />
+          <Route path="/Praneetha/about" component={About} />
+          <Route path="/Praneetha/resume" component={Resume} />
+          <Route path="/Praneetha/workDone" component={WorkDone} />
           {/* <FooterWebsite /> */}
         </div>
       </Router>

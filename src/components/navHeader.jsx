@@ -10,7 +10,7 @@ class NavHeader extends Component {
                 <Navbar inverse collapseOnSelect>
                     <Navbar.Header>
                         <Navbar.Brand>
-                            <Link href="/" to="/">Praneetha Shetti</Link>
+                            <Link href="/Praneetha" to="/Praneetha">Praneetha Shetti</Link>
                         </Navbar.Brand>
                         <Navbar.Toggle />
                     </Navbar.Header>

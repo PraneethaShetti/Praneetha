@@ -8,17 +8,17 @@ const componentsDS=[
     {
         title:"Tic Tac Toe",
         description:"Game of tic tac toe",
-        src:"",
+        src:"https://praneethashetti.github.io/Tictactoe/",
         styleCSS:{
-            backgroundColor:'#77b6b6'
+            backgroundColor:'#b3c5e0'
         }
     },
     {
         title:"Game of Life",
         description:"Fun of Seed/pause/play",
-        src:"",
+        src:"https://praneethashetti.github.io/GameofLife/",
         styleCSS:{
-            backgroundColor:'#77b6b6'
+            backgroundColor:'#c0add6'
         }
     },
     {
@@ -29,30 +29,30 @@ const componentsDS=[
             backgroundColor:'#77b6b6'
         }
     },
-    {
-        title:"BodyMass Calculator",
-        description:"Check to stay stable",
-        src:"",
-        styleCSS:{
-            backgroundColor:'#77b6b6'
-        }
-    },
-    {
-        title:"Mini Youtube",
-        description:"Speak your mood out",
-        src:"",
-        styleCSS:{
-            backgroundColor:'#77b6b6'
-        }
-    },
-    {
-        title:"Number calculator",
-        description:"fastest fingers first",
-        src:"",
-        styleCSS:{
-            backgroundColor:'#77b6b6'
-        }
-    },
+    // {
+    //     title:"BodyMass Calculator",
+    //     description:"Check to stay stable",
+    //     src:"",
+    //     styleCSS:{
+    //         backgroundColor:'#77b6b6'
+    //     }
+    // },
+    // {
+    //     title:"Mini Youtube",
+    //     description:"Speak your mood out",
+    //     src:"",
+    //     styleCSS:{
+    //         backgroundColor:'#77b6b6'
+    //     }
+    // },
+    // {
+    //     title:"Number calculator",
+    //     description:"fastest fingers first",
+    //     src:"",
+    //     styleCSS:{
+    //         backgroundColor:'#77b6b6'
+    //     }
+    // },
 ]
 class WorkDone extends Component {
     constructor(props){

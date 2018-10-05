@@ -7,7 +7,7 @@ import FrameComponent from './frameComponent';
 const componentsDS=[
     {
         title:"Tic Tac Toe",
-        description:"Game of tic tac toe",
+        description:"Tic Tac Toe..!!! game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game",
         src:"https://praneethashetti.github.io/Tictactoe/",
         styleCSS:{
             backgroundColor:'#b3c5e0'
@@ -15,7 +15,7 @@ const componentsDS=[
     },
     {
         title:"Game of Life",
-        description:"Fun of Seed/pause/play",
+        description:"Conway's Game of Life..., The game is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.",
         src:"https://praneethashetti.github.io/GameofLife/",
         styleCSS:{
             backgroundColor:'#c0add6'

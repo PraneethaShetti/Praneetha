@@ -23,10 +23,34 @@ const componentsDS=[
     },
     {
         title:"ToDo list",
-        description:"Remain connected with busy life",
+        description:"Remain connected with busy life..!! Simple 3 steps to stay connected, Add elements to the list by typing in, mark things as done by clicking on tick, delete things from list by clicking on 'x'.",
+        src:"https://praneethashetti.github.io/todolist/",
+        styleCSS:{
+            backgroundColor:'#77b6b6'
+        }
+    },
+    {
+        title:"BodyMass Calculator",
+        description:"Build going on please wait for 24hours to check it out.",
         src:"",
         styleCSS:{
             backgroundColor:'#77b6b6'
+        }
+    },
+    {
+        title:"Mini Youtube",
+        description:"Build going on please wait for 24hours to check it out.",
+        src:"",
+        styleCSS:{
+            backgroundColor:'#b3c5e0'
+        }
+    },
+    {
+        title:"Number calculator",
+        description:"Build going on please wait for 24hours to check it out.",
+        src:"",
+        styleCSS:{
+            backgroundColor:'#c0add6'
         }
     },
     // {

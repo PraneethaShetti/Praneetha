@@ -13,14 +13,14 @@ class App extends Component {
     return (
       <Router>
         <div id="top">
-        <div className="wrapper row4">
-          <NavHeader />
-        </div>
+          <div className="wrapper row4">
+            <NavHeader />
+          </div>
           <Route exact path="/Praneetha" component={Home} />
           <Route path="/Praneetha/about" component={About} />
           <Route path="/Praneetha/resume" component={Resume} />
           <Route path="/Praneetha/workDone" component={WorkDone} />
-          {/* <FooterWebsite /> */}
+          <FooterWebsite />
         </div>
       </Router>
     );

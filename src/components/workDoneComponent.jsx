@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './css/workDoneComponent.css'
-import {Col} from 'react-bootstrap';
+import {Col, Button ,bsStyle} from 'react-bootstrap';
 
 class WorkDoneComponent extends Component {
     handleClick(){
@@ -13,7 +13,7 @@ class WorkDoneComponent extends Component {
                     <div className="outerSquare">
                         <h3> {this.props.title} </h3>
                         <p>{ this.props.description}</p>
-                        <button onClick={()=>this.handleClick()} >Try it here</button>
+                        <Button className="Try" onClick={()=>this.handleClick()} >Try it here</Button>
                     </div>
                 </div>
             </Col>

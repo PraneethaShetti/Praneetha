@@ -1,0 +1,11 @@
+.fstyle{
+    background: #222;
+    border-radius: 38px;
+    box-shadow: 0 6px #222;
+}
+.biolinks{
+    color: #9d9d9d;
+}
+.biolinks:hover{
+    color: #fff;
+}

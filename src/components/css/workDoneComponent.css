@@ -10,6 +10,7 @@
     text-align: center;
     margin-left: 4rem;
     margin-bottom: 4rem;
+    color: black;
 }
 @media only screen and (max-width: 768px) {
     .workDoneContainer{
@@ -17,8 +18,12 @@
     }
 }
 .outerSquare{
-    border-style: solid;
     border-color:  white;
     height: -webkit-fill-available;
     width:-webkit-fill-available;
+}
+.Try{
+    border-radius: 58px;
+    box-shadow: 0 6px;
+    outline: none !important;
 }
